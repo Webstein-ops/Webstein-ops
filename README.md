@@ -1,4 +1,4 @@
-![KOX Banner](https://github.com/Webstein-ops/KOX/assets/144915134/6f2b6c5e-5d9a-4e2d-9c3e-3d3e6b9f2e88)
+![KOX Banner](https://pin.it/8zUG1fiFw)
 
 # Hey everyone, I’m Gideon 👋  
 
