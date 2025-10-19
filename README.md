@@ -1,88 +1,98 @@
-# Hey everyone, I’m **Gideon 👋**
+![KOX Banner](https://github.com/Webstein-ops/KOX/assets/144915134/6f2b6c5e-5d9a-4e2d-9c3e-3d3e6b9f2e88)
 
-🚀 **Blockchain Developer** | 🦀 **Rust & Move Developer** | 🌐 **Founder of KOX**
+# Hey everyone, I’m Gideon 👋  
 
----
-
-## 🔹 About Me
-- 🧠 Passionate about **AI × Blockchain** innovation  
-- ⚙️ Building decentralized systems using **Rust**, **Move**, and **Web3**  
-- 🌱 Founder of **KOX** — an iOS-like assistant model built entirely in **Rust**  
-- 💡 Vision: Build assistants that **serve the user, not the company**  
-- 🎯 Mission: Empower **self-sovereign AI** and next-gen Blockchain ecosystems
+🚀 Blockchain Developer | 🦀 Rust & Move Developer | 🌐 Founder of KOX  
 
 ---
 
-## 🔹 About KOX
+## 🔹 About Me  
+- 🧠 Blockchain developer passionate about **AI × Blockchain** innovation  
+- 🦀 Writing smart contracts and systems in **Rust** and **Move Language**  
+- 🌱 Founder of **KOX** — a decentralized, user-first AI assistant framework  
+- 💡 I build on **multiple Blockchains** (Solana, Aptos, Substrate, and more)  
+- 🎯 Mission: Create assistants that **work for the user, not the company**  
+- 🛠️ Currently building **everything in Rust & Move**  
+
+---
+
+## 🔹 About KOX  
 ❌ **The Problem:**  
-Assistants like Siri or Alexa serve corporations — not users.
+Assistants like Siri and Alexa don’t truly serve the user — they serve the company.  
 
-✅ **KOX flips the model:**  
-- Records user actions locally  
-- Learns & suggests intelligently  
-- Requests user consent before every action  
-- Secures data using **Blockchain and cryptography**
+✅ **KOX flips this model:**  
+- Records user actions  
+- Generates useful, private suggestions  
+- Always asks for consent  
+- Secures everything using **Blockchain**  
 
-👉 **Project Repository:** [KOX on GitHub](https://github.com/Webstein-ops/KOX)
+👉 Project Repo: [KOX on GitHub](https://github.com/Webstein-ops/KOX)  
 
 ---
 
-## 🧰 Tech Stack — Languages & Tools
+## ⚙️ Languages & Tools  
 
-```text
-Rust (Core Systems)       ██████████████████████████░  98%
-Move (Aptos / Sui)        ███████████████████░░░░░░░░  85%
-Web3 / Smart Contracts    ████████████████████░░░░░░░  88%
-Substrate / Polkadot      ████████████████░░░░░░░░░░░  75%
-Solana (Rust Runtime)     ████████████░░░░░░░░░░░░░░░  65%
-Blockchain Security       ██████████████████████░░░░░  90%
-Cryptography / ZK / MPC   ████████████████░░░░░░░░░░░  75%
-WASM (WebAssembly)        ███████████░░░░░░░░░░░░░░░░  60%
-Tokio / Actix Frameworks  ████████████░░░░░░░░░░░░░░░  65%
-Linux / CLI / Cargo       █████████████████░░░░░░░░░░  78%
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move%20Lang-003366?style=for-the-badge&logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-101820?style=for-the-badge&logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substrate-0C7BDC?style=for-the-badge&logo=paritysubstrate&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-⚡ What I Build
+---
 
-🏗️ Smart Contract Architectures (Solana, Aptos, Move, Substrate)
+## ⚡ What I Build  
 
-🔐 On-chain Identity & Security Systems
+🏗️ Smart Contract Architectures (**Solana, Aptos, Move, Substrate**)  
+🔐 On-chain Identity & Security Systems  
+🌉 Cross-chain Integrations & DApps  
+🧠 AI-powered Blockchain Assistants  
+⚙️ Blockchain Infrastructure Tools  
 
-🌉 Cross-chain Integrations & DApps
+---
 
-🧠 AI-powered Blockchain Assistants
+## 🧠 Focus Areas  
 
-⚙️ Blockchain Infrastructure Tools
+- Layer-1 / Layer-2 Blockchain Design  
+- Smart Contract Optimization (**Rust, Move**)  
+- Decentralized AI Frameworks  
+- Zero-Knowledge Proof Systems (**ZKPs**)  
+- Secure Multi-party Computation (**MPC**)  
+- Web3 Wallet Infrastructure & Privacy Layers  
 
-🧠 Focus Areas
+---
 
-Layer-1 / Layer-2 Blockchain Design
+## 📊 GitHub Stats & Activity  
 
-Smart Contract Optimization (Rust, Move)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=radical&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Gideon's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webstein-ops&theme=radical&ring=ff7b00&fire=ff7b00&currStreakLabel=ff7b00" alt="GitHub Streak" width="48%" />
+</p>
 
-Decentralized AI Frameworks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&theme=radical&title_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
-Zero-Knowledge Proof Systems (ZKPs)
+---
 
-Secure Multi-party Computation (MPC)
+## 🌍 Connect with Me  
 
-Web3 Wallet Infrastructure & Privacy Layers
+<p align="center">
+  <a href="https://twitter.com/webenstein_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Webstein-ops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=radical&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Gideon's GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webstein-ops&theme=radical&ring=ff7b00&fire=ff7b00&currStreakLabel=ff7b00" alt="GitHub Streak" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&theme=radical&title_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" /> </p>
-🌍 Connect with Me
+---
 
-
-
-
-⭐ If you like what I build, consider following — I share my open-source blockchain work here.
-
-
-If you want, I can:
-- Replace the ASCII bar chart with **SVG progress bars** (still GitHub-friendly) for a cleaner visual.
-- Add a **KOX header banner** image and the Markdown to embed it.
-- Tweak copy tone (shorter or more formal) for job/recruiter audiences.
-
-Which one of those would you like me to add right now?
-
-Git / GitHub / DevOps     █████████████████████░░░░░░  83%
-Serde / Rocket Framework  ████████████░░░░░░░░░░░░░░░  62%
+⭐ **If you like what I build, consider following — I share my open-source blockchain work here.**
