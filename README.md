@@ -1,5 +1,3 @@
-![KOX Banner](https://pin.it/8zUG1fiFw)
-
 # Hey everyone, I’m Gideon 👋  
 
 🚀 Blockchain Developer | 🦀 Rust & Move Developer | 🌐 Founder of KOX  
