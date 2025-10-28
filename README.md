@@ -1,16 +1,16 @@
 # Hey everyone, I’m Gideon 👋  
 
-🚀 Blockchain Developer | 🦀 Rust & Move Developer | 🌐 Founder of KOX  
+🚀 Blockchain Developer | 🦀 Rust & Move Developer | 🌐 Founder of KOX | ✨ StarkNet/Cairo Developer
 
 ---
 
 ## 🔹 About Me  
 - 🧠 Blockchain developer passionate about **AI × Blockchain** innovation  
-- 🦀 Writing smart contracts and systems in **Rust** and **Move Language**  
+- 🦀 Writing smart contracts and systems in **Rust**, **Move**, and **Cairo**  
 - 🌱 Founder of **KOX** — a decentralized, user-first AI assistant framework  
-- 💡 I build on **multiple Blockchains** (Solana, Aptos, Substrate, and more)  
+- 💡 I build on **multiple Blockchains** (Solana, Aptos, Substrate, StarkNet, and more)  
 - 🎯 Mission: Create assistants that **work for the user, not the company**  
-- 🛠️ Currently building **everything in Rust & Move**  
+- 🛠️ Currently building **everything in Rust, Move & Cairo**  
 
 ---
 
@@ -33,6 +33,7 @@ Assistants like Siri and Alexa don’t truly serve the user — they serve the c
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Move%20Lang-003366?style=for-the-badge&logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=starknet&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Aptos-101820?style=for-the-badge&logo=aptos&logoColor=white" />
   <img src="https://img.shields.io/badge/Substrate-0C7BDC?style=for-the-badge&logo=paritysubstrate&logoColor=white" />
@@ -48,7 +49,7 @@ Assistants like Siri and Alexa don’t truly serve the user — they serve the c
 
 ## ⚡ What I Build  
 
-🏗️ Smart Contract Architectures (**Solana, Aptos, Move, Substrate**)  
+🏗️ Smart Contract Architectures (**Solana, Aptos, Move, Substrate, StarkNet/Cairo**)  
 🔐 On-chain Identity & Security Systems  
 🌉 Cross-chain Integrations & DApps  
 🧠 AI-powered Blockchain Assistants  
@@ -59,7 +60,7 @@ Assistants like Siri and Alexa don’t truly serve the user — they serve the c
 ## 🧠 Focus Areas  
 
 - Layer-1 / Layer-2 Blockchain Design  
-- Smart Contract Optimization (**Rust, Move**)  
+- Smart Contract Optimization (**Rust, Move, Cairo**)  
 - Decentralized AI Frameworks  
 - Zero-Knowledge Proof Systems (**ZKPs**)  
 - Secure Multi-party Computation (**MPC**)  
