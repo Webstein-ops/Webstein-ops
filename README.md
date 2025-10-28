@@ -68,16 +68,13 @@ Assistants like Siri and Alexa don’t truly serve the user — they serve the c
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📂 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=radical&title_color=ff7b00&icon_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Gideon's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webstein-ops&theme=radical&ring=ff7b00&fire=ff7b00&currStreakLabel=ff7b00" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&theme=radical&title_color=ff7b00&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+| Project | Description | GitHub |
+|---------|-------------|--------|
+| **StarkVault** | On-chain document verification & NFT minting system | [Repo](https://github.com/Webstein-ops/starkvault) |
+| **KOX** | Decentralized AI assistant framework | [Repo](https://github.com/Webstein-ops/KOX) |
+| **Other DApps** | Multi-chain blockchain apps & experiments | [GitHub](https://github.com/Webstein-ops?tab=repositories) |
 
 ---
 
