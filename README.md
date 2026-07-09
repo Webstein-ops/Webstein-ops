@@ -1,94 +1,71 @@
-# Hey everyone, I’m Gideon 👋  
+# Hi, I'm Gideon 👋
 
-🚀 Blockchain Developer | 🦀 Rust & Move Developer | 🌐 Founder of KOX | ✨ StarkNet/Cairo Developer
+🛡️ **Cybersecurity Analyst** | 💻 Computer Science Student | 🔍 Blue Team | 🚀 Software Builder
 
----
+## 👨‍💻 About Me
 
-## 🔹 About Me  
-- 🧠 Blockchain developer passionate about **AI × Blockchain** innovation  
-- 🦀 Writing smart contracts and systems in **Rust**, **Move**, and **Cairo**  
-- 🌱 Founder of **KOX** — a decentralized, user-first AI assistant framework  
-- 💡 I build on **multiple Blockchains** (Solana, Aptos, Substrate, StarkNet, and more)  
-- 🎯 Mission: Create assistants that **work for the user, not the company**  
-- 🛠️ Currently building **everything in Rust, Move & Cairo**  
+I'm a Computer Science student and an aspiring Cybersecurity Analyst passionate about protecting systems, investigating security incidents, and strengthening organizational security through proactive defense.
 
----
+My primary interests include Security Operations Center (SOC) operations, threat hunting, incident response, security monitoring, and log analysis. I continuously expand my practical experience through hands-on investigations, cybersecurity labs, industry training, and real-world security projects.
 
-## 🔹 About KOX  
-❌ **The Problem:**  
-Assistants like Siri and Alexa don’t truly serve the user — they serve the company.  
+Beyond cybersecurity, I have built AI and blockchain applications, giving me a strong software engineering foundation and a deeper understanding of secure application development across modern technologies.
 
-✅ **KOX flips this model:**  
-- Records user actions  
-- Generates useful, private suggestions  
-- Always asks for consent  
-- Secures everything using **Blockchain**  
+My long-term objective is to contribute to organizations as a Cybersecurity Analyst while continuously developing expertise in security operations and defensive cybersecurity.
 
-👉 Project Repo: [KOX on GitHub](https://github.com/Webstein-ops/KOX)  
+## 🎯 Core Areas
 
----
+- Security Operations Center (SOC)
+- Security Monitoring
+- Threat Hunting
+- Incident Response
+- Log Analysis
+- Threat Intelligence
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Blue Team Operations
+- Detection Engineering
 
-## ⚙️ Languages & Tools  
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Move%20Lang-003366?style=for-the-badge&logo=aptos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=starknet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aptos-101820?style=for-the-badge&logo=aptos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Substrate-0C7BDC?style=for-the-badge&logo=paritysubstrate&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Wireshark
+- Nmap
+- OpenVAS
+- Linux
+- Python
+- Git & GitHub
 
----
+## 🚀 Featured Projects
 
-## ⚡ What I Build  
+### 🛡️ Cybersecurity Portfolio
+A growing collection of cybersecurity certifications, hands-on investigations, KQL queries, security write-ups, and blue team projects demonstrating practical SOC skills.
 
-🏗️ Smart Contract Architectures (**Solana, Aptos, Move, Substrate, StarkNet/Cairo**)  
-🔐 On-chain Identity & Security Systems  
-🌉 Cross-chain Integrations & DApps  
-🧠 AI-powered Blockchain Assistants  
-⚙️ Blockchain Infrastructure Tools  
+### 🔵 Microsoft Student SOC Program Foundations
+Documentation and learning outcomes from Microsoft's Security Operations Center training program, covering security monitoring, threat detection, incident response, and SOC fundamentals.
 
----
+### 🔍 KC7 Cyber Defense Platform
+Hands-on threat hunting and security investigations performed using Kusto Query Language (KQL) in realistic Security Operations Center environments.
 
-## 🧠 Focus Areas  
+### 🤖 Actuvo
+An AI-powered productivity assistant designed to automate reminders, intelligent follow-ups, and task management.
 
-- Layer-1 / Layer-2 Blockchain Design  
-- Smart Contract Optimization (**Rust, Move, Cairo**)  
-- Decentralized AI Frameworks  
-- Zero-Knowledge Proof Systems (**ZKPs**)  
-- Secure Multi-party Computation (**MPC**)  
-- Web3 Wallet Infrastructure & Privacy Layers  
+### ⛓️ StarkVault
+A blockchain-based document verification and NFT minting platform demonstrating secure decentralized application development.
 
----
+### 🌐 KOX
+A decentralized AI assistant framework exploring privacy-first AI experiences powered by blockchain technology.
 
-## 📂 Featured Projects  
+## 🎓 Certifications
 
-| Project | Description | GitHub |
-|---------|-------------|--------|
-| **StarkVault** | On-chain document verification & NFT minting system | [Repo](https://github.com/Webstein-ops/starkvault) |
-| **KOX** | Decentralized AI assistant framework | [Repo](https://github.com/Webstein-ops/KOX) |
-| **Other DApps** | Multi-chain blockchain apps & experiments | [GitHub](https://github.com/Webstein-ops?tab=repositories) |
+- Microsoft Student SOC Program Foundations
+- KC7 Cyber Defense Platform (Hands-on Investigations)
 
----
+*Additional cybersecurity certifications and practical security projects will be added as my professional journey continues.*
 
-## 🌍 Connect with Me  
+## 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://twitter.com/webenstein_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Webstein-ops">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- **GitHub:** https://github.com/Webstein-ops
+- **X (Twitter):** https://x.com/webenstein_
 
----
-
-⭐ **If you like what I build, consider following — I share my open-source blockchain work here.**
+> *"Building secure systems starts with understanding how attackers think, how defenders respond, and never stopping the pursuit of knowledge."*
