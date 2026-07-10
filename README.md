@@ -45,10 +45,29 @@ Outside security, I've built AI and blockchain projects, which gave me a softwar
 
 ---
 
+## SOC Investigations
+
+Simulated enterprise SOC investigations — log analysis, correlation, IOC identification, MITRE ATT&CK mapping, and KQL detection queries for each scenario.
+
+| # | Investigation | Category | Severity |
+|---|---|---|---|
+| 01 | [Brute Force Login Detection](./investigations/01-brute-force-login-detection.md) | Authentication | Medium |
+| 02 | [Phishing Email Analysis](./investigations/02-phishing-email-analysis.md) | Email Security | High |
+| 03 | [Suspicious PowerShell Execution](./investigations/03-suspicious-powershell-execution.md) | Endpoint / LOLBin | Medium |
+| 04 | [Ransomware Incident Investigation](./investigations/04-ransomware-incident.md) | Malware / Endpoint | Critical |
+| 05 | [Lateral Movement Detection](./investigations/05-lateral-movement-detection.md) | Threat Hunting | High |
+| 06 | [Privilege Escalation Analysis](./investigations/06-privilege-escalation-analysis.md) | IAM / Identity | High |
+| 07 | [Data Exfiltration Investigation](./investigations/07-data-exfiltration.md) | Network / DLP | High |
+| 08 | [Threat Hunting Using IOCs](./investigations/08-threat-hunting-iocs.md) | Proactive Hunting | Low–Medium |
+
+*Each write-up follows a consistent structure: hypothesis, methodology, findings, IOCs, MITRE ATT&CK mapping, risk rating, and a working KQL detection query.*
+
+---
+
 ## Featured Projects
 
 **🛡️ Cybersecurity Portfolio**
-Growing collection of investigations, KQL queries, and blue team write-ups demonstrating practical SOC skills.
+Growing collection of investigations, KQL queries, and blue team write-ups — the repo you're looking at.
 
 **🔵 Microsoft Student SOC Program Foundations**
 Coursework and learning outcomes from Microsoft's SOC training program — security monitoring, threat detection, and incident response fundamentals.
