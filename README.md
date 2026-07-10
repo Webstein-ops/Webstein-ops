@@ -1,71 +1,118 @@
+<div align="center">
+
 # Hi, I'm Gideon 👋
 
-🛡️ **Cybersecurity Analyst** | 💻 Computer Science Student | 🔍 Blue Team | 🚀 Software Builder
+**Cybersecurity Analyst in training | Blue Team | SOC & Threat Hunting | CS Student**
 
-## 👨‍💻 About Me
+[![X](https://img.shields.io/badge/X-@webenstein__-000000?style=flat&logo=x)](https://x.com/webenstein_)
+[![GitHub](https://img.shields.io/badge/GitHub-Webstein--ops-181717?style=flat&logo=github)](https://github.com/Webstein-ops)
 
-I'm a Computer Science student and an aspiring Cybersecurity Analyst passionate about protecting systems, investigating security incidents, and strengthening organizational security through proactive defense.
+</div>
 
-My primary interests include Security Operations Center (SOC) operations, threat hunting, incident response, security monitoring, and log analysis. I continuously expand my practical experience through hands-on investigations, cybersecurity labs, industry training, and real-world security projects.
+---
 
-Beyond cybersecurity, I have built AI and blockchain applications, giving me a strong software engineering foundation and a deeper understanding of secure application development across modern technologies.
+## About Me
 
-My long-term objective is to contribute to organizations as a Cybersecurity Analyst while continuously developing expertise in security operations and defensive cybersecurity.
+I'm a Computer Science student focused on becoming a Cybersecurity Analyst — specifically on the blue team side: SOC operations, threat hunting, incident response, and detection engineering.
 
-## 🎯 Core Areas
+Most of what's in this profile is hands-on: simulated investigations, KQL queries, and write-ups built the way I'd document a real incident, not just theory. I want the work here to hold up to the same scrutiny a hiring manager would apply to an actual SOC ticket.
 
-- Security Operations Center (SOC)
-- Security Monitoring
-- Threat Hunting
-- Incident Response
-- Log Analysis
-- Threat Intelligence
-- Microsoft Sentinel
-- Kusto Query Language (KQL)
-- Blue Team Operations
-- Detection Engineering
+Outside security, I've built AI and blockchain projects, which gave me a software engineering base that now feeds directly into how I think about secure application design and attacker tradecraft.
 
-## 🛠️ Technologies & Tools
+**Currently working toward:** a full-time Cybersecurity Analyst / SOC role, while deepening my hands-on detection and response skills.
 
-- Microsoft Sentinel
-- Kusto Query Language (KQL)
-- Wireshark
-- Nmap
-- OpenVAS
-- Linux
-- Python
-- Git & GitHub
+---
 
-## 🚀 Featured Projects
+## Core Areas
 
-### 🛡️ Cybersecurity Portfolio
-A growing collection of cybersecurity certifications, hands-on investigations, KQL queries, security write-ups, and blue team projects demonstrating practical SOC skills.
+`Security Operations Center (SOC)` · `Threat Hunting` · `Incident Response` · `Log Analysis` · `Threat Intelligence` · `Detection Engineering` · `Blue Team Operations`
 
-### 🔵 Microsoft Student SOC Program Foundations
-Documentation and learning outcomes from Microsoft's Security Operations Center training program, covering security monitoring, threat detection, incident response, and SOC fundamentals.
+---
 
-### 🔍 KC7 Cyber Defense Platform
-Hands-on threat hunting and security investigations performed using Kusto Query Language (KQL) in realistic Security Operations Center environments.
+## Tools & Technologies
 
-### 🤖 Actuvo
-An AI-powered productivity assistant designed to automate reminders, intelligent follow-ups, and task management.
+<div align="center">
 
-### ⛓️ StarkVault
-A blockchain-based document verification and NFT minting platform demonstrating secure decentralized application development.
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-005A9C?style=for-the-badge&logo=data:image/svg%2bxml;base64,&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 KOX
-A decentralized AI assistant framework exploring privacy-first AI experiences powered by blockchain technology.
+</div>
 
-## 🎓 Certifications
+---
+
+## SOC Investigations
+
+Simulated enterprise SOC investigations — log analysis, correlation, IOC identification, MITRE ATT&CK mapping, and KQL detection queries for each scenario.
+
+| # | Investigation | Category | Severity |
+|---|---|---|---|
+| 01 | [Brute Force Login Detection](./investigations/01-brute-force-login-detection.md) | Authentication | Medium |
+| 02 | [Phishing Email Analysis](./investigations/02-phishing-email-analysis.md) | Email Security | High |
+| 03 | [Suspicious PowerShell Execution](./investigations/03-suspicious-powershell-execution.md) | Endpoint / LOLBin | Medium |
+| 04 | [Ransomware Incident Investigation](./investigations/04-ransomware-incident.md) | Malware / Endpoint | Critical |
+| 05 | [Lateral Movement Detection](./investigations/05-lateral-movement-detection.md) | Threat Hunting | High |
+| 06 | [Privilege Escalation Analysis](./investigations/06-privilege-escalation-analysis.md) | IAM / Identity | High |
+| 07 | [Data Exfiltration Investigation](./investigations/07-data-exfiltration.md) | Network / DLP | High |
+| 08 | [Threat Hunting Using IOCs](./investigations/08-threat-hunting-iocs.md) | Proactive Hunting | Low–Medium |
+
+*Each write-up follows a consistent structure: hypothesis, methodology, findings, IOCs, MITRE ATT&CK mapping, risk rating, and a working KQL detection query.*
+
+---
+
+## Featured Projects
+
+**🛡️ Cybersecurity Portfolio**
+Growing collection of investigations, KQL queries, and blue team write-ups — the repo you're looking at.
+
+**🔵 Microsoft Student SOC Program Foundations**
+Coursework and learning outcomes from Microsoft's SOC training program — security monitoring, threat detection, and incident response fundamentals.
+
+**🔍 KC7 Cyber Defense Platform**
+Hands-on KQL-based threat hunting and investigation exercises in simulated SOC environments.
+
+**🤖 Actuvo**
+AI-powered productivity assistant for automated reminders, follow-ups, and task management.
+
+**⛓️ StarkVault**
+Blockchain-based document verification and NFT minting platform — decentralized app development with a security-first design.
+
+**🌐 KOX**
+Decentralized AI assistant framework exploring privacy-first AI, built on blockchain infrastructure.
+
+---
+
+## Certifications
 
 - Microsoft Student SOC Program Foundations
-- KC7 Cyber Defense Platform (Hands-on Investigations)
+- KC7 Cyber Defense Platform — Hands-on Investigations
 
-*Additional cybersecurity certifications and practical security projects will be added as my professional journey continues.*
+*More certifications and hands-on projects added as this progresses.*
 
-## 🌍 Connect With Me
+---
 
-- **GitHub:** https://github.com/Webstein-ops
-- **X (Twitter):** https://x.com/webenstein_
+## GitHub Stats
 
-> *"Building secure systems starts with understanding how attackers think, how defenders respond, and never stopping the pursuit of knowledge."*
+<div align="center">
+
+![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## Connect
+
+[![X](https://img.shields.io/badge/Follow-@webenstein__-000000?style=flat&logo=x)](https://x.com/webenstein_)
+[![GitHub](https://img.shields.io/badge/GitHub-Webstein--ops-181717?style=flat&logo=github)](https://github.com/Webstein-ops)
+
+<div align="center">
+
+*Building secure systems starts with understanding how attackers think, how defenders respond, and never stopping the pursuit of knowledge.*
+
+</div>
