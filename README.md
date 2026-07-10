@@ -33,7 +33,7 @@ Outside security, I've built AI and blockchain projects, which gave me a softwar
 
 <div align="center">
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel]([https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white](https://github.com/Webstein-ops/cybersecurity-portfolio/blob/main/Investigation%2001%20%E2%80%93%20Brute%20Force%20Login%20Detection))
 ![KQL](https://img.shields.io/badge/KQL-005A9C?style=for-the-badge&logo=data:image/svg%2bxml;base64,&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
