@@ -121,14 +121,6 @@ Technical investigations, vulnerability analysis, experiments, and research docu
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Korz3yn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&hide_border=true)
-
 </div>
 
 ---
