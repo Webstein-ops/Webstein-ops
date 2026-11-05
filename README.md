@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Gideon 👋
+# Hi, I'm Korz3yn
 
-**Cybersecurity Analyst in training | Blue Team | SOC & Threat Hunting | CS Student**
+**Security Researcher | Web3 Engineer**
 
 [![X](https://img.shields.io/badge/X-@webenstein__-000000?style=flat&logo=x)](https://x.com/webenstein_)
 [![GitHub](https://img.shields.io/badge/GitHub-Webstein--ops-181717?style=flat&logo=github)](https://github.com/Webstein-ops)
@@ -13,85 +13,105 @@
 
 ## About Me
 
-I'm a Computer Science student focused on becoming a Cybersecurity Analyst — specifically on the blue team side: SOC operations, threat hunting, incident response, and detection engineering.
+I'm Korz3yn, a Security Researcher and Web3 Engineer focused on understanding how systems work, identifying vulnerabilities, and building decentralized applications.
 
-Most of what's in this profile is hands-on: simulated investigations, KQL queries, and write-ups built the way I'd document a real incident, not just theory. I want the work here to hold up to the same scrutiny a hiring manager would apply to an actual SOC ticket.
+My work revolves around security research, vulnerability analysis, reverse engineering, smart contract development, and decentralized infrastructure.
 
-Outside security, I've built AI and blockchain projects, which gave me a software engineering base that now feeds directly into how I think about secure application design and attacker tradecraft.
+I enjoy exploring how software behaves beneath the surface, investigating attack surfaces, analysing execution flows, and engineering systems with security in mind.
 
-**Currently working toward:** a full-time Cybersecurity Analyst / SOC role, while deepening my hands-on detection and response skills.
+Beyond research, I build Web3 applications, smart contracts, blockchain-integrated systems, and AI-powered tools.
+
+**Currently exploring:**
+- Security Research & Vulnerability Discovery
+- Systems Security & Reverse Engineering
+- Smart Contract Engineering
+- Web3 Infrastructure & Decentralized Applications
+- AI Agent Security
+- Application Security
 
 ---
 
 ## Core Areas
 
-`Security Operations Center (SOC)` · `Threat Hunting` · `Incident Response` · `Log Analysis` · `Threat Intelligence` · `Detection Engineering` · `Blue Team Operations`
+`Security Research` · `Vulnerability Research` · `Reverse Engineering` · `Systems Security` · `Web3 Engineering` · `Smart Contract Development` · `Decentralized Applications` · `AI Security`
 
 ---
 
 ## Tools & Technologies
 
-<div align="center">
+**Security & Research**
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-005A9C?style=for-the-badge&logo=data:image/svg%2bxml;base64,&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`Linux` · `Python` · `Bash` · `Wireshark` · `Nmap` · `Burp Suite` · `Git`
 
-</div>
+**Web3 & Development**
+
+`Solidity` · `JavaScript` · `TypeScript` · `Node.js` · `Hardhat` · `Ethers.js` · `React` · `Next.js`
 
 ---
 
-## SOC Investigations
+## Security Research
 
-Simulated enterprise SOC investigations — log analysis, correlation, IOC identification, MITRE ATT&CK mapping, and KQL detection queries for each scenario.
+My research focuses on understanding vulnerabilities, analysing attack surfaces, and investigating how weaknesses emerge in software and infrastructure.
 
-| # | Investigation | Category | Severity |
-|---|---|---|---|
-| 01 | [Brute Force Login Detection](./investigations/01-brute-force-login-detection.md) | Authentication | Medium |
-| 02 | [Phishing Email Analysis](./investigations/02-phishing-email-analysis.md) | Email Security | High |
-| 03 | [Suspicious PowerShell Execution](./investigations/03-suspicious-powershell-execution.md) | Endpoint / LOLBin | Medium |
-| 04 | [Ransomware Incident Investigation](./investigations/04-ransomware-incident.md) | Malware / Endpoint | Critical |
-| 05 | [Lateral Movement Detection](./investigations/05-lateral-movement-detection.md) | Threat Hunting | High |
-| 06 | [Privilege Escalation Analysis](./investigations/06-privilege-escalation-analysis.md) | IAM / Identity | High |
-| 07 | [Data Exfiltration Investigation](./investigations/07-data-exfiltration.md) | Network / DLP | High |
-| 08 | [Threat Hunting Using IOCs](./investigations/08-threat-hunting-iocs.md) | Proactive Hunting | Low–Medium |
+Areas of exploration:
 
-*Each write-up follows a consistent structure: hypothesis, methodology, findings, IOCs, MITRE ATT&CK mapping, risk rating, and a working KQL detection query.*
+- Vulnerability discovery and root-cause analysis.
+- Application and API security.
+- Operating system internals and systems security.
+- Reverse engineering and software behaviour.
+- Threat modelling and attack surface analysis.
+- AI agent security and adversarial behaviour.
+- Smart contract and blockchain security research.
+
+---
+
+## Web3 Engineering
+
+I build and experiment with decentralized systems, smart contracts, and blockchain-integrated applications.
+
+Areas of development:
+
+- Solidity smart contract development.
+- EVM architecture and transaction execution.
+- Decentralized application engineering.
+- Escrow and on-chain execution logic.
+- Blockchain API integrations.
+- On-chain and off-chain system architecture.
+- Security-conscious protocol design.
 
 ---
 
 ## Featured Projects
 
-**🛡️ Cybersecurity Portfolio**
-Growing collection of investigations, KQL queries, and blue team write-ups — the repo you're looking at.
+**RoqLock**
 
-**🔵 Microsoft Student SOC Program Foundations**
-Coursework and learning outcomes from Microsoft's SOC training program — security monitoring, threat detection, and incident response fundamentals.
+Smart contract-based escrow infrastructure exploring decentralized transaction execution, escrow logic, and blockchain integrations.
 
-**🔍 KC7 Cyber Defense Platform**
-Hands-on KQL-based threat hunting and investigation exercises in simulated SOC environments.
+**StarkVault**
 
-**🤖 Actuvo**
+Blockchain-based document verification and NFT minting platform.
+
+**KOX**
+
+Decentralized AI assistant framework exploring privacy-first AI and blockchain infrastructure.
+
+**Actuvo**
+
 AI-powered productivity assistant for automated reminders, follow-ups, and task management.
 
-**⛓️ StarkVault**
-Blockchain-based document verification and NFT minting platform — decentralized app development with a security-first design.
+**Security Research Portfolio**
 
-**🌐 KOX**
-Decentralized AI assistant framework exploring privacy-first AI, built on blockchain infrastructure.
+Technical investigations, vulnerability analysis, experiments, and research documentation.
 
 ---
 
-## Certifications
+## Research & Development
 
-- Microsoft Student SOC Program Foundations
-- KC7 Cyber Defense Platform — Hands-on Investigations
-
-*More certifications and hands-on projects added as this progresses.*
+- Independent security research and technical experiments.
+- Smart contract engineering and blockchain development.
+- Vulnerability analysis and security documentation.
+- AI security and agentic system exploration.
+- Open-source tools and infrastructure.
 
 ---
 
@@ -99,7 +119,8 @@ Decentralized AI assistant framework exploring privacy-first AI, built on blockc
 
 <div align="center">
 
-![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=default&hide_border=true)
+![Korz3yn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webstein-ops&show_icons=true&theme=default&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Webstein-ops&layout=compact&hide_border=true)
 
 </div>
@@ -113,6 +134,6 @@ Decentralized AI assistant framework exploring privacy-first AI, built on blockc
 
 <div align="center">
 
-*Building secure systems starts with understanding how attackers think, how defenders respond, and never stopping the pursuit of knowledge.*
+*Researching vulnerabilities. Engineering decentralized systems.*
 
 </div>
