@@ -39,13 +39,17 @@ Beyond research, I build Web3 applications, smart contracts, blockchain-integrat
 
 ## Tools & Technologies
 
-**Security & Research**
+**Security Research & Analysis**
 
-`Linux` · `Python` · `Bash` · `Wireshark` · `Nmap` · `Burp Suite` · `Git`
+`Linux` · `Kali Linux` · `Parrot OS` · `Python` · `Bash` · `GDB` · `Ghidra` · `IDA Pro` · `Radare2` · `Binwalk` · `Frida` · `Wireshark` · `tcpdump` · `Nmap` · `Masscan` · `Burp Suite` · `OWASP ZAP` · `Metasploit` · `Nuclei` · `ffuf` · `Gobuster` · `SQLmap` · `Hashcat` · `John the Ripper` · `Volatility` · `YARA` · `Sysmon` · `BloodHound` · `Impacket` · `Semgrep` · `CodeQL` · `Docker` · `Git`
 
-**Web3 & Development**
+**Web3 & Blockchain Engineering**
 
-`Solidity` · `JavaScript` · `TypeScript` · `Node.js` · `Hardhat` · `Ethers.js` · `React` · `Next.js`
+`Solidity` · `Rust` · `Cairo` · `Hardhat` · `Foundry` · `Ethers.js` · `Starknet` · `Scarb` · `Starkli` · `OpenZeppelin` · `Anvil` · `Cast` · `Forge` · `EVM` · `IPFS` · `The Graph` · `Web3 APIs`
+
+**Development & Infrastructure**
+
+`Python` · `Rust` · `Node.js` · `React` · `Next.js` · `Linux` · `Docker` · `Git` · `GitHub` · `REST APIs`
 
 ---
 
@@ -72,6 +76,8 @@ I build and experiment with decentralized systems, smart contracts, and blockcha
 Areas of development:
 
 - Solidity smart contract development.
+- Rust-based blockchain development.
+- Cairo and Starknet development.
 - EVM architecture and transaction execution.
 - Decentralized application engineering.
 - Escrow and on-chain execution logic.
